@@ -1,2 +1,2 @@
-# InfografiaMovistar-1.0
-Infografía para Movistar
+# Infografia1.0
+Infografía
