@@ -1,0 +1,60 @@
+@import 'lib/eases';
+/* colors */
+$bg-color: #FFFFFF;
+$blue: #337ab7;
+$red: #c40000;
+
+$link-color: $blue;
+$title-color:   #E05B5C !default;
+$text-color:    #4A4A4A !default;
+$gris:          #F8F8F8 !default;
+$turquesa:      #34D0D0 !default;
+$durazno:       #E45D5E !default;
+$amarillo:      #FFD53B !default;
+$fuxia:         #D798F7 !default;
+$black:         #000000 !default;
+$footer-bg:     #2D2D90 !default;
+$footer-color:  #FFFFFF !default;
+
+/* Section description colors */
+$text-turquesa:      #186E6E !default;
+$text-durazno:       #791e1f !default; //#186e6e
+$text-amarillo:      #B47A27 !default;
+$text-fuxia:         #611a8e !default; //#914BB5
+
+/* Section Backgrounds */
+$turquesa_img:      '../img/turquesa_bg.png';
+$durazno_img:       '../img/peach_bg.png';
+$amarillo_img:      '../img/yellow_bg.png';
+$fuxia_img:         '../img/fuxia_bg.png';
+$black_img:         '../img/black_bg.png';
+
+$turquesa-light:     #6BDDDD !default;
+$turquesa-regular:   #34D0D0 !default;
+$turquesa-bold:      #29B7B7 !default;
+
+/* Product Modal */
+$modal-title: #154781 !default;
+
+/* fonts */
+$font-regular: 'Source Sans Pro', sans-serif;
+$din: 'DIN-Cond-Bold';
+$avenir: 'Avenir-Bold';
+$roboto: 'Roboto-Cond-light';
+$nunito: 'NunitoSans-Regular';
+$nunito-light: 'NunitoSans-Light';
+$nunito-bold: 'NunitoSans-Bold';
+
+/* media queries */
+$phone: '(max-width: 480px)';
+$tablet: '(min-width: 481px) and (max-width: 979px)';
+$tablet-portrait: '(max-width: 767px)';
+$tablet-landscape: '(min-width: 768px) and (max-width: 979px)';
+$desktop: '(min-width: 980px)';
+$non-retina: 'screen and (-webkit-max-device-pixel-ratio: 1)';
+$retina: '(min--moz-device-pixel-ratio: 1.5),
+                    (-o-min-device-pixel-ratio: 3/2),
+                    (-webkit-min-device-pixel-ratio: 1.5),
+                    (min-device-pixel-ratio: 1.5),
+                    (min-resolution: 144dpi),
+                    (min-resolution: 1.5dppx)';

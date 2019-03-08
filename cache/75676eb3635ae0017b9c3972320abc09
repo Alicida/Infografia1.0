@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <?php /* google analytics script */ ?>
+    <?php /* <?php echo $__env->make("snippets.analytics", array_except(get_defined_vars(), array('__data', '__path')))->render(); ?> */ ?>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Movistar - Infografìa</title>
+    <?php /* metatags */ ?>
+    <?php /* <?php echo $__env->make("snippets.metatags", array_except(get_defined_vars(), array('__data', '__path')))->render(); ?> */ ?>
+    <?php /* favicons */ ?>
+    <?php /* <?php echo $__env->make("snippets.favicons", array_except(get_defined_vars(), array('__data', '__path')))->render(); ?> */ ?>
+    <?php /* stylesheets */ ?>
+    <style>
+      <?php echo $__env->yieldContent('style'); ?>
+    </style>
+    <link rel="stylesheet" href="<?php echo App::$base_path; ?>/dist/css/main.css">
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+  </head>
+  <body>
+    <?php echo $__env->make("snippets.tag_manager", array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+    <?php echo $__env->make("shared.shim", array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+    <?php /* header */ ?>
+    <header id="header">
+      <div class="container-fluid">
+
+      </div>
+    </header>
+    <?php /* preloader */ ?>
+    <div id="preloader">
+      <div class="only-sr">Cargando</div>
+    </div>
+    <?php /* content */ ?>
+    <div id="wrapper">
+      <?php echo $__env->yieldContent('content'); ?>
+    </div>
+    <?php /* footer */ ?>
+    <footer id="footer">
+
+    </footer>
+    <?php /* javascript libraries & stuff */ ?>
+    <script src="<?php echo App::$base_path; ?>/dist/js/main.js"></script>
+  </body>
+</html>

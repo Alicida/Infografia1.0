@@ -1,0 +1,312 @@
+body {
+  color: white;
+  text-align: center;
+  font-family: "Telefonica";
+  background-color: #00a9df;
+}
+
+h3{
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+h4{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+#blackText{
+  margin-top: 20px;
+}
+
+.spaceblank{
+  margin-bottom: 30px;
+}
+
+.banner{
+  background-image: url('../img/BH.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+ position: relative;
+ width: 100%;
+ height: 540px;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+#title{
+  color: #00a9e0;
+  font-family: "Telefonica";
+  font-size: 100px;
+  margin: 150px 220px 0 0;
+}
+
+#subtitle{
+  font-size: 50px;
+  font-family: "Telefonica";
+  margin: 152px 0 0 10px;
+}
+
+.titleTasks{
+  background-color: #00a9df;
+}
+
+#paragraph-center{
+  border: 5px solid #ffff;
+  border-radius: 10px;
+  z-index: 1;
+  background-size: 0 0;
+  background-color: #FFFF;
+  color: black;
+  display: inline-block;
+  margin: -30px 9px -19px -172px;;
+  font-size: 24px;
+  font-family: "Telefonica";
+  position:absolute;
+}
+
+.genders{
+  background-color: #0499bb;
+}
+
+.ageAndWhy{
+  height: 150px;
+}
+
+.type{
+  background-color: #2ab7d7;
+}
+.tasks{
+  background-color: #00a9df;
+  height: 360px;
+
+  p{
+    margin: 19px 0 29px 0px;
+    text-align: right;
+  }
+}
+.people{
+  background-color: #2ab7d7;
+  span{
+    color: #f59c00;
+    font-size: 60px;
+    font-family: sans-serif;
+  }
+  p{
+    margin: -46px 0px 24px 0;
+  }
+}
+.ages{
+  background-color: #86e9f4;
+  #piechart{
+    height: 100%;
+    width: 100%;
+  }
+
+  #list{
+    text-align: left;
+    font-size: 14px;
+    font-family: monospace;
+  }
+
+  ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  }
+
+  li {
+    padding-left: 1em;
+    text-indent: -.7em;
+  }
+
+  #beforeteen::before {
+    content: "• ";
+    color: #00A9E0;
+  }
+  #teen::before {
+    content: "• ";
+    color: #5BC500;
+  }
+  #fiveteen::before {
+    content: "• ";
+    color: #954B97;
+  }
+  #aftertwenty::before {
+    content: "• ";
+    color: #EC6839;
+  }
+}
+
+.times{
+  background-color: #00a9df;
+}
+.providers{
+  background-color: #0499bb;
+}
+
+#blackText{
+  color: black;
+}
+
+.porcents{
+  font-size: 60px;
+}
+
+.bargraph {
+    list-style: none;
+    padding-top: 20px;
+    width:100%;
+    }
+
+div.bargraph .blank {
+    height: 35px;
+    color: white;
+    text-align: left;
+    font-style: italic;
+    font-weight:bolder;
+    font-size: 14px;
+    line-height: 35px;
+    margin-bottom: 25px;
+    width:100%;
+    background: white;
+    }
+
+.navigate {
+background: #EC6839;
+padding-left: 10px;
+}
+
+.homework {
+background: #0070bb;
+padding-left: 10px;
+}
+
+.socialNetwork {
+background: #5BC500;
+padding-left: 10px;
+}
+
+.videosMovies {
+background: #E9426D;
+padding-left: 10px;
+}
+
+.music {
+background: #954B97;
+padding-left: 10px;
+}
+
+.vertical{
+  height: 340px;
+  text-align: center;
+  position: relative;
+}
+
+#morning{
+  background: #9a5eae;
+  width: 80%;
+  margin: 0 auto;
+  position: absolute;
+  bottom: 0;
+}
+
+#afternoon{
+  background: #e9426c;
+  width: 80%;
+  margin: 0 auto;
+  position: absolute;
+  bottom: 0;
+}
+
+#night{
+  background: #5bc500;
+  width: 80%;
+  margin: 0 auto;
+  position: absolute;
+  bottom: 0;
+}
+
+.bilateral {
+    height: 35px;
+    color: white;
+    text-align: left;
+    font-style: italic;
+    font-weight:bolder;
+    font-size: 14px;
+    line-height: 35px;
+    width:100%;
+    text-align: center;
+    }
+
+    .bilateral_left {
+            margin-left: 23px;
+        }
+
+    .bilateral_right {
+            margin-left: -23px;
+        }
+
+    #telmex {
+    background: #5bc500;
+    height: 100%;
+    float: right;
+    }
+
+    #others {
+    background: #f59c00;
+    height: 100%;
+    float: left;
+    }
+
+    #izzi {
+    background: #e9426c;
+    height: 100%;
+    float: right;
+    }
+
+    #megacable {
+    background: #9a5eae;
+    height: 100%;
+    float: left;
+    }
+
+    #dontremember {
+    background: #5bc500;
+    height: 100%;
+    float: right;
+    }
+
+    #total {
+    background: #f59c00;
+    height: 100%;
+    float: left;
+    }
+
+    #dish {
+    background: #e9426c;
+    height: 100%;
+    float: right;
+    }
+
+    #sky {
+    background: #9a5eae;
+    height: 100%;
+    float: left;
+    }
+
+.text_left{
+  text-align: right;
+}
+
+.text_right{
+  text-align: left;
+}
+
+#inforUsers{
+  margin-top: 30px;
+}
+
+.infography-input{
+  margin: 20px 0 20px 0;
+}

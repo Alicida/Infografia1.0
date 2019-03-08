@@ -1,0 +1,16 @@
+<meta name="title" content=""/>
+<meta name="author" content=""/>
+<meta name="description" content=""/>
+<meta name="keywords" content="Movistar"/>
+<meta property="og:url" content="https://movistar.com.mx"/>
+<meta property="og:locale" content="es_LA"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content=""/>
+<meta property="og:description" content=""/>
+<meta property="og:image" content=""/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content=""/>
+<meta name="twitter:creator" content=""/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:image" content=""/>

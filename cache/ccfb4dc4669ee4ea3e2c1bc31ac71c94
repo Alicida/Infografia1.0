@@ -1,0 +1,43 @@
+
+<?php $__env->startSection('content'); ?>
+	<a href="<?php echo App::$base_path.'/form/'; ?>" class="btn btn-link">Editar</a>
+	<div class="container">
+		<?php /* <?php echo $slide->image->from; ?> */ ?>
+		<?php echo $__env->make('statics/_banner', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+		<?php echo $__env->make('statics/_row-one', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+		<?php echo $__env->make('statics/_row-two', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+		<?php echo $__env->make('statics/_row-three', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+		<?php echo $__env->make('statics/_row-four', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+	</div>
+	<?php /* <?php foreach($tasks as $task): ?>
+		seccion <?php echo $category->name; ?>
+	<?php endforeach; ?> */ ?>
+
+
+
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('style'); ?>
+
+	.navigate { max-width: <?php echo $tasks->browser; ?>% }
+	.homework { max-width: <?php echo $tasks->homework; ?>% }
+	.socialNetwork { max-width: <?php echo $tasks->social; ?>% }
+	.videosMovies { max-width: <?php echo $tasks->movies; ?>% }
+	.music { max-width: <?php echo $tasks->music; ?>% }
+
+	#morning{ height: <?php echo $times->morning; ?>% }
+	#afternoon{ height: <?php echo $times->afternoon; ?>% }
+	#night{ height: <?php echo $times->night; ?>% }
+
+	#telmex{ width: <?php echo $providers->telmex; ?>% }
+	#others{ width: <?php echo $providers->others; ?>% }
+	#izzi{ width: <?php echo $providers->izzi; ?>% }
+	#megacable{ width: <?php echo $providers->megacable; ?>% }
+	#dontremember{ width: <?php echo $providers->dontremember; ?>% }
+	#total{ width: <?php echo $providers->total; ?>% }
+	#dish{ width: <?php echo $providers->dish; ?>% }
+	#sky{ width: <?php echo $providers->sky; ?>% }
+
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('layout', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

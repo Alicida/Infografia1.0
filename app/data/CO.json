@@ -1,0 +1,1160 @@
+{
+  "sliders": [
+    {
+      "title": "¿Tienes granitos?",
+      "description": "Prevenir la aparición de los granitos en la piel es súper fácil y con la información adecuada es posible entender sus diferentes etapas. La clave está en prestar atención y aplicar las medidas necesarias para prevenirlo y solucionarlo.",
+      "link": "",
+      "type": "granitos",
+      "id": "Granitos",
+      "image": {
+        "from": "/uploads/slider_translation/image/1/header-granitos.png",
+        "to": "/dist/img/sliders/Granitos.png"
+      },
+      "mobile": {
+        "from": "/uploads/slider_translation/mobile/1/header-granitos-m.png",
+        "to": "/dist/img/sliders/Granitos-mobile.png"
+      }
+    },
+    {
+      "title": "Asepxia, lo mejor para tu piel.",
+      "description": "Somos una línea de tecnología avanzada especialmente formulada para el \r\ncuidado de pieles con grasitud, granitos o puntos negros.",
+      "link": "",
+      "type": "generic",
+      "id": "Generico",
+      "image": {
+        "from": "/uploads/slider_translation/image/2/header-generico.png",
+        "to": "/dist/img/sliders/Generico.png"
+      },
+      "mobile": {
+        "from": "/uploads/slider_translation/mobile/2/header-generico-m.png",
+        "to": "/dist/img/sliders/Generico-mobile.png"
+      }
+    },
+    {
+      "title": "¿Tienes brillo en la piel?",
+      "description": "Prevenir la apración de brillo en la piel es súper fácil y con la información\r\nadecuada es posible. La clave està en prestar atención y aplicar las medidas \r\nnecesarias para prevenirlo y solucionarlo.",
+      "link": "",
+      "type": "pielgrasa",
+      "id": "Grasa",
+      "image": {
+        "from": "/uploads/slider_translation/image/3/header-brillo.png",
+        "to": "/dist/img/sliders/Grasa.png"
+      },
+      "mobile": {
+        "from": "/uploads/slider_translation/mobile/3/header-brillo-m.png",
+        "to": "/dist/img/sliders/Grasa-mobile.png"
+      }
+    },
+    {
+      "title": "¿Tienes puntos negros?",
+      "description": "Los puntos negros pueden aparecer en cualquier tipo de piel y en cualquier edad. Tratarlos es muy simple siempre que se realice con constancia y tomando las medidas necesarias.",
+      "link": "",
+      "type": "puntosnegros",
+      "id": "PuntosNegros",
+      "image": {
+        "from": "/uploads/slider_translation/image/4/header-puntos.png",
+        "to": "/dist/img/sliders/PuntosNegros.png"
+      },
+      "mobile": {
+        "from": "/uploads/slider_translation/mobile/4/header-puntos-m.png",
+        "to": "/dist/img/sliders/PuntosNegros-mobile.png"
+      }
+    },
+    {
+      "title": "Tu tratamiento",
+      "description": "Los granitos, puntos negros y brillo en la cara y el cuerpo son más normales de lo que parecen y pueden manifestarse en todos los tipos de piel.  </br></br>\r\n\r\nAsepxia posee un amplio portafolio de productos especialmente formulados para combatir estos problemas de una forma práctica y sencilla. </br></br>\r\n\r\n<b>¡Conoce la mejor forma de utilizarlos!  </b>",
+      "link": "",
+      "type": "tratamiento",
+      "id": "TuTratamiento",
+      "image": {
+        "from": "/uploads/slider_translation/image/5/duchas-desk.png",
+        "to": "/dist/img/sliders/TuTratamiento.png"
+      },
+      "mobile": {
+        "from": "/uploads/slider_translation/mobile/5/duchas-mob.png",
+        "to": "/dist/img/sliders/TuTratamiento-mobile.png"
+      }
+    },
+    {
+      "title": "Asepxia Limpieza",
+      "description": "SOMOS UNA LÍNEA DE TECNOLOGÍA AVANZADA ESPECIALMENTE FORMULADA PARA EL CUIDADO DE PIELES CON GRASITUD, GRANITOS O PUNTOS NEGROS.\r\n",
+      "link": "",
+      "type": "limpieza",
+      "id": "AsepxiaLimpieza",
+      "image": {
+        "from": "/uploads/slider_translation/image/6/header-generico.png",
+        "to": "/dist/img/sliders/AsepxiaLimpieza.png"
+      },
+      "mobile": {
+        "from": "/uploads/slider_translation/mobile/6/header-generico-m.png",
+        "to": "/dist/img/sliders/AsepxiaLimpieza-mobile.png"
+      }
+    },
+    {
+      "title": "Asepxia Emergencia",
+      "description": "La exclusiva fórmula de la línea de emergencia cubre las imperfecciones mientras ayuda a eliminarlas.",
+      "link": "",
+      "type": "emergencia",
+      "id": "AsepxiaEmergencia",
+      "image": {
+        "from": "/uploads/slider_translation/image/7/banner-emergencia.png",
+        "to": "/dist/img/sliders/AsepxiaEmergencia.png"
+      },
+      "mobile": {
+        "from": "/uploads/slider_translation/mobile/7/banner-emergencia-m.png",
+        "to": "/dist/img/sliders/AsepxiaEmergencia-mobile.png"
+      }
+    },
+    {
+      "title": "Asepxia Maquillaje",
+      "description": "La avanzada fórmula de Asepxia maquillaje neutraliza y absorbe la grasa mientras ayuda a eliminar los puntos negros.\r\n",
+      "link": "",
+      "type": "maquillaje",
+      "id": "AsepxiaMaquillaje",
+      "image": {
+        "from": "/uploads/slider_translation/image/8/header-generico.png",
+        "to": "/dist/img/sliders/AsepxiaMaquillaje.png"
+      },
+      "mobile": {
+        "from": "/uploads/slider_translation/mobile/8/header-generico-m.png",
+        "to": "/dist/img/sliders/AsepxiaMaquillaje-mobile.png"
+      }
+    },
+    {
+      "title": "ASEPXIA, LO MEJOR PARA TU PIEL.",
+      "description": "SOMOS UNA LÍNEA DE TECNOLOGÍA AVANZADA ESPECIALMENTE FORMULADA PARA EL CUIDADO DE PIELES CON GRASITUD, GRANITOS O PUNTOS NEGROS.",
+      "link": "",
+      "type": "carbondetox",
+      "id": "CarbonDetox",
+      "image": {
+        "from": "/uploads/slider_translation/image/28/download.png",
+        "to": "/dist/img/sliders/CarbonDetox.png"
+      },
+      "mobile": {
+        "from": "/uploads/slider_translation/mobile/28/Generico-mobile.png",
+        "to": "/dist/img/sliders/CarbonDetox-mobile.png"
+      }
+    }
+  ],
+  "advices": [
+    {
+      "title": "Hidrata tu cuerpo",
+      "description": "La hidratación es indispensable para mantener una piel saludable. Por eso es fundamental tomar al menos 2 litros de agua al día. Con constancia, resultados como una piel lisa y más flexible se reflejarán a simple vista.",
+      "key_url": "HidrataTuCuerpo",
+      "icon": {
+        "from": "/uploads/tip/icon/1/agua.png",
+        "to": "/dist/img/advices/HidrataTuCuerpo.png"
+      }
+    },
+    {
+      "title": "Lava tu rostro",
+      "description": "Para evitar las imperfecciones es muy importante comenzar una rutina preventiva. Limpiar el rostro con jabones Asepxia, 2 veces al día por al menos 3 o 4 días a la semana. Recuerda que puedes complementar tu rutina de limpieza anti – imperfecciones con el maquillaje en polvo Asepxia y el gel Asepxia Emergencia Spot.",
+      "key_url": "LavaTuRostro",
+      "icon": {
+        "from": "/uploads/tip/icon/2/jabon.png",
+        "to": "/dist/img/advices/LavaTuRostro.png"
+      }
+    },
+    {
+      "title": "Usa maquillaje asepxia",
+      "description": "Utilizar maquillaje aún con un problema de barros y espinillas es posible. Asepxia posee una línea lista para cubrir las imperfecciones mientras te las ayuda a eliminar.",
+      "key_url": "UsaMaquillajeAsepxia",
+      "icon": {
+        "from": "/uploads/tip/icon/3/make_up.png",
+        "to": "/dist/img/advices/UsaMaquillajeAsepxia.png"
+      }
+    },
+    {
+      "title": "Limpia tu rostro",
+      "description": "Para cuidar la piel de la cara de forma fácil y muy práctica existen las Toallitas de Limpieza Asepxia. Son ideales para retirar la suciedad y reducir el brillo del rostro. Su uso entre 2 y 3 veces por día mantendrá la piel limpia y sin grasa.",
+      "key_url": "LimpiaTuRostro",
+      "icon": {
+        "from": "/uploads/tip/icon/4/toallitas.png",
+        "to": "/dist/img/advices/LimpiaTuRostro.png"
+      }
+    },
+    {
+      "title": "Incluye zinc en tu alimentación",
+      "description": "Minerales como el Zinc son agentes antibacterianos, es decir elementos básicos en las glándulas que producen el aceite de la piel. La inclusión de Zinc puede incorporarse mediante la ingesta de alimentos como carne, yema de huevo, trigo, pollo, camarones y sardinas, entre otros.",
+      "key_url": "IncluyeZincEnTuAlimentacion",
+      "icon": {
+        "from": "/uploads/tip/icon/5/proteinas.png",
+        "to": "/dist/img/advices/IncluyeZincEnTuAlimentacion.png"
+      }
+    },
+    {
+      "title": "Consume fibra",
+      "description": "Consumir alimentos ricos en fibra como cereales integrales y frutas ayuda a eliminar las toxinas que pueden dañar la piel.",
+      "key_url": "ConsumeFibra",
+      "icon": {
+        "from": "/uploads/tip/icon/6/cereales.png",
+        "to": "/dist/img/advices/ConsumeFibra.png"
+      }
+    },
+    {
+      "title": "Reduce los lácteos",
+      "description": "La alimentación impacta directamente en la calidad de la piel. La integración de lácteos bajos en grasa, como yogures y leches, a una dieta balanceada dará como resultado una piel más saludable.",
+      "key_url": "ReduceLosLacteos",
+      "icon": {
+        "from": "/uploads/tip/icon/7/lacteos.png",
+        "to": "/dist/img/advices/ReduceLosLacteos.png"
+      }
+    },
+    {
+      "title": "Toma té verde",
+      "description": "El té verde ayuda a combatir los radicales libres de las células de la piel y así facilita la renovación de la epidermis. Optar por este tipo de té ayudará a mantener una piel saludable.",
+      "key_url": "TomaTeVerde",
+      "icon": {
+        "from": "/uploads/tip/icon/8/te_verde.png",
+        "to": "/dist/img/advices/TomaTeVerde.png"
+      }
+    },
+    {
+      "title": "Evita los carbohidratos",
+      "description": "No es recomendable abusar de panes, pastas y frituras, ya que estos alimentos pueden ayudar a la aparición de los granitos.",
+      "key_url": "EvitaLosCarbohidratos",
+      "icon": {
+        "from": "/uploads/tip/icon/9/pasta.png",
+        "to": "/dist/img/advices/EvitaLosCarbohidratos.png"
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": "MaquillajeLiquidoAutoajustable",
+      "price": "",
+      "generic_id": "maquillajeliquidoautoajustable",
+      "name": "Maquillaje Líquido Autoajustable",
+      "short_description": "Maquillaje líquido que se adapta a todos los tonos de piel. Es una crema de uso diario, anti-imperfecciones y anti-brillo.",
+      "description": "<div>Piel Radiante 8 en 1</div><ul><li>Reduce y combate imperfecciones.</li></ul><ul><li>Controla el exceso de grasa.</li></ul><ul><li>Reduce el tamaño de los poros.</li></ul><ul><li>Matifica la piel.</li></ul><ul><li>Desvaneces manchas.</li></ul><ul><li>Unifica el tono.</li></ul><ul><li>Con ingrediente hidratante</li></ul><ul><li>FPS 15.</li></ul><div><br></div>",
+      "use_mode": "<div>Aplicar una cantidad suficiente del producto sobre tu rostro las veces que sea necesario para cubrir esas pequeñas imperfecciones y eliminar el brillo.</div>",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/148/maquillaje-liquido.png",
+        "to": "/dist/img/products/MaquillajeLiquidoAutoajustable-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/148/AsepxiaBbMaquillajeLiquidoAutoajustable.png",
+        "to": "/dist/img/products/MaquillajeLiquidoAutoajustable.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/148/AsepxiaBbMaquillajeLiquidoAutoajustable-mobile.png",
+        "to": "/dist/img/products/MaquillajeLiquidoAutoajustable-mobile.png"
+      },
+      "category": "maquillaje",
+      "presentations": [
+        {
+          "name": "30ml"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "LaRebajaVirtual",
+          "url": "https://www.larebajavirtual.com/catalogo/producto/producto/120475/descripcion/MAQUILLAJE-LIQUIDO-AUTOAJUSTABLE-ASEPXIA.html?utm_source=CO-Asepxia-site&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_LaRebajaVirtual"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "pielmixta",
+        "puntosnegros",
+        "granitos"
+      ]
+    },
+    {
+      "id": "AsepxiaMaquillajeClaroMate",
+      "price": "",
+      "generic_id": "asepxiamaquillajeclaromate",
+      "name": "Asepxia Maquillaje Claro Mate",
+      "short_description": "Maquillaje en polvo compacto que absorbe la grasa de la piel mientras ayuda a reducir imperfecciones. ",
+      "description": "<b>Cubre perfectamente las imperfecciones </b>y deja la piel sin brillo durante todo el día con 8 beneficios:\r\n<ul>\r\n\t<li>Reduce y combate imperfecciones.</li>\r\n\t<li>Controla el exceso de grasa.</li>\r\n\t<li>Reduce el tamaño de los poros.</li>\r\n\t<li>Matifica la piel.</li>\r\n\t<li>Desvanece manchas.</li>\r\n\t<li>Unifica el tono.</li>\r\n\t<li>Tiene ingrediente hidratante.</li>\r\n\t<li>FPS 15.</li>\r\n</ul>",
+      "use_mode": "<div>Úsalo para maquillar tu rostro las veces que sea necesario. &nbsp;</div><div><br></div>",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/49/maquillaje-claro.png",
+        "to": "/dist/img/products/AsepxiaMaquillajeClaroMate-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/49/header-maquillaje.png",
+        "to": "/dist/img/products/AsepxiaMaquillajeClaroMate.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/49/header-maquillaje-m.png",
+        "to": "/dist/img/products/AsepxiaMaquillajeClaroMate-mobile.png"
+      },
+      "category": "maquillaje",
+      "presentations": [
+        {
+          "name": "10 Grs"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "LaRebajaVirtual",
+          "url": "https://www.larebajavirtual.com/catalogo/producto/producto/83241/descripcion/POLVO-COMPACTO-ASEPXIA--CLARO-MATE.html&utm_source=COAsepxia-Landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_LaRebajaVirtual"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "pielgrasa",
+        "granitos",
+        "puntosnegros"
+      ]
+    },
+    {
+      "id": "AsepxiaMaquillajeBeigeMate",
+      "price": "",
+      "generic_id": "asepxiamaquillajebeigemate",
+      "name": "Asepxia Maquillaje Beige Mate",
+      "short_description": "Maquillaje en polvo compacto que absorbe la grasa de la piel mientras ayuda a reducir imperfecciones. ",
+      "description": "<b>Cubre perfectamente las imperfecciones</b> y deja la piel sin brillo durante todo el día con 8 beneficios:\r\n<ul>\r\n\t<li>Reduce y combate imperfecciones.</li>\r\n\t<li>Controla el exceso de grasa.</li>\r\n\t<li>Reduce el tamaño de los poros.</li>\r\n\t<li>Matifica la piel.</li>\r\n\t<li>Desvanece manchas.</li>\r\n\t<li>Unifica el tono.</li>\r\n\t<li>Tiene ingrediente hidratante.</li>\r\n\t<li>FPS 15.</li>\r\n</ul>",
+      "use_mode": "<div>Úsalo para maquillar tu rostro las veces que sea necesario. &nbsp;</div><div><br></div>",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/45/maquillaje-beige.png",
+        "to": "/dist/img/products/AsepxiaMaquillajeBeigeMate-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/45/header-maquillaje.png",
+        "to": "/dist/img/products/AsepxiaMaquillajeBeigeMate.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/45/header-maquillaje-m.png",
+        "to": "/dist/img/products/AsepxiaMaquillajeBeigeMate-mobile.png"
+      },
+      "category": "maquillaje",
+      "presentations": [
+        {
+          "name": "10 Grs"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "LaRebajaVirtual",
+          "url": "https://www.larebajavirtual.com/catalogo/producto/producto/82325/descripcion/POLVO-COMPACTO-ASEPXIA-BEIGE-MATE.html&utm_source=COAsepxia-Landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_LaRebajaVirtual"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "pielgrasa",
+        "granitos",
+        "puntosnegros"
+      ]
+    },
+    {
+      "id": "AsepxiaMaquillajeNatural",
+      "price": "",
+      "generic_id": "asepxiamaquillajenatural",
+      "name": "Asepxia Maquillaje Natural",
+      "short_description": "Maquillaje en polvo compacto que absorbe la grasa de la piel mientras ayuda a reducir imperfecciones. ",
+      "description": "<b>Cubre perfectamente las imperfecciones </b>y deja la piel sin brillo durante todo el día con 8 beneficios:\r\n<ul>\r\n\t<li>Reduce y combate imperfecciones.</li>\r\n\t<li>Controla el exceso de grasa.</li>\r\n\t<li>Reduce el tamaño de los poros.</li>\r\n\t<li>Matifica la piel.</li>\r\n\t<li>Desvanece manchas.</li>\r\n\t<li>Unifica el tono.</li>\r\n\t<li>Tiene ingrediente hidratante.</li>\r\n\t<li>FPS 15.</li>\r\n</ul>",
+      "use_mode": "<div>Úsalo para maquillar tu rostro las veces que sea necesario. &nbsp;</div><div><br></div>",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/37/maquillaje-natural.png",
+        "to": "/dist/img/products/AsepxiaMaquillajeNatural-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/37/header-maquillaje.png",
+        "to": "/dist/img/products/AsepxiaMaquillajeNatural.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/37/header-maquillaje-m.png",
+        "to": "/dist/img/products/AsepxiaMaquillajeNatural-mobile.png"
+      },
+      "category": "maquillaje",
+      "presentations": [
+        {
+          "name": "10 Grs"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "LaRebajaVirtual",
+          "url": "https://www.larebajavirtual.com/catalogo/producto/producto/82323/descripcion/POLVO-COMPACTO-ASEPXIA-NATURAL-MATE.html&utm_source=COAsepxia-Landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_LaRebajaVirtual"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "pielgrasa",
+        "granitos",
+        "puntosnegros"
+      ]
+    },
+    {
+      "id": "AsepxiaJabonCarbonDetox",
+      "price": "",
+      "generic_id": "asepxiajaboncarbondetox",
+      "name": "Asepxia Jabón Carbón Detox",
+      "short_description": "Efecto purificante que remueve toxinas* e impurezas de tu piel.",
+      "description": "Una fórmula con la máxima concentración de ácido salicílico** especialmente diseñada para la limpieza de la piel mixta con imperfecciones, ayudando a combatirlas. Remueve toxinas e impurezas a la vez que disminuye la grasa y el brillo.&nbsp;",
+      "use_mode": "<div>En la mañana y en la noche, lava tu cara con agua y JABÓN Asepxia Carbón Detox dando un ligero masaje insistiendo en las zonas en que</div><div>se tengan imperfecciones luego enjuaga con abundante agua.</div><div>* Toxinas: Suciedad y contaminantes provenientes del ambiente.</div><div>** Máxima concentración de ácido salicílico según categoría del producto.</div>",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/123/jabon-carbon.png",
+        "to": "/dist/img/products/AsepxiaJabonCarbonDetox-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/123/jabon-carbon-desk.png",
+        "to": "/dist/img/products/AsepxiaJabonCarbonDetox.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/123/jabon-carbon-mob.png",
+        "to": "/dist/img/products/AsepxiaJabonCarbonDetox-mobile.png"
+      },
+      "category": "carbondetox",
+      "presentations": [
+        {
+          "name": "100g"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "Farmatodo",
+          "url": "https://www.farmatodo.com.co/?utm_source=Co-Asepxia-landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_Farmatodo#/product/1055437"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "pielmixta"
+      ]
+    },
+    {
+      "id": "AsepxiaParchesCarbon",
+      "price": "",
+      "generic_id": "asepxiaparchescarbon",
+      "name": "Asepxia Parches Carbón ",
+      "short_description": "En tan solo 8 horas disminuye imperfecciones, purifica y reduce toxinas* de tu piel.",
+      "description": "<div>Parche Anti Imperfecciones de efecto localizado, con carbón y ácido salicílico. En tan solo 8 horas disminuye imperfecciones, purifica y reduce toxinas* de tu piel.</div>",
+      "use_mode": "<div>En la noche lava tu piel con Asepxia JABÓN CARBÓN DETOX, Coloca un parche sobre cada imperfección y déjalo actuar durante 8 horas continuas, luego retira y lava nuevamente con agua y jabón.<br></div><div>* Toxinas: Suciedad y contaminantes provenientes del ambiente.</div><div>** Máxima concentración de ácido salicílico según categoría del producto.</div><div><br></div>",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/124/jabon-carbon-2.png",
+        "to": "/dist/img/products/AsepxiaParchesCarbon-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/124/parches-carbon-desk_2.png",
+        "to": "/dist/img/products/AsepxiaParchesCarbon.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/124/parches-carbon-mob_2.png",
+        "to": "/dist/img/products/AsepxiaParchesCarbon-mobile.png"
+      },
+      "category": "carbondetox",
+      "presentations": [
+        {
+          "name": "12 Piezas"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "Farmatodo",
+          "url": "https://www.farmatodo.com.co/?utm_source=Co-Asepxia-landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_Farmatodo#/product/1055759"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "pielmixta",
+        "pielgrasa",
+        "pielsecaosensible",
+        "granitos",
+        "puntosnegros"
+      ]
+    },
+    {
+      "id": "AsepxiaJabonNeutro",
+      "price": "",
+      "generic_id": "asepxiajabonneutro",
+      "name": "Asepxia Jabón Neutro",
+      "short_description": "Fórmula sin olor ni color para limpiar delicadamente y prevenir la aparición de imperfecciones.",
+      "description": "Las pieles normales con imperfecciones que desean un cuidado constante, pueden usar <b>Asepxia Jabón Neutro</b> que genera un efecto mate sin brillo en la piel.",
+      "use_mode": "En la mañana y en la noche, lava tu cara con agua y <b>Asepxia Jabón Neutro</b> dando un ligero masaje, insistiendo en las zonas más afectadas. Enjuaga con abundante agua.",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/17/jabon-neutro.png",
+        "to": "/dist/img/products/AsepxiaJabonNeutro-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/17/header-jneutro.png",
+        "to": "/dist/img/products/AsepxiaJabonNeutro.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/17/header-jneutro-m.png",
+        "to": "/dist/img/products/AsepxiaJabonNeutro-mobile.png"
+      },
+      "category": "limpieza",
+      "presentations": [
+        {
+          "name": "100G"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "LaRebajaVirtual",
+          "url": "https://www.larebajavirtual.com/catalogo/producto/producto/15512/descripcion/JABON-ASEPXIA-NEUTRO.html&utm_source=COAsepxia-Landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_LaRebajaVirtual"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "pielsecaosensible",
+        "granitos",
+        "puntosnegros",
+        "pielgrasa"
+      ]
+    },
+    {
+      "id": "AsepxiaJabonSoft",
+      "price": "",
+      "generic_id": "asepxiajabonsoft",
+      "name": "Asepxia Jabón Soft",
+      "short_description": "Diseñado para ayudar a eliminar suavemente imperfecciones, favoreciendo delicadamente las pieles grasas y con granitos.",
+      "description": "Si tienes una piel mixta con imperfecciones, que quieres cuidar <b>Asepxia Jabón Soft</b> es ideal para hacerlo y al mismo tiempo dejar tu piel suave.",
+      "use_mode": "En la mañana y en la noche, lava tu cara con agua y <b>Asepxia Jabón Soft</b> dando un ligero masaje, insistiendo en las zonas más afectadas. Enjuaga con abundante agua.",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/13/jabon-soft.png",
+        "to": "/dist/img/products/AsepxiaJabonSoft-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/13/header-jsoft.png",
+        "to": "/dist/img/products/AsepxiaJabonSoft.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/13/header-jsoft-m.png",
+        "to": "/dist/img/products/AsepxiaJabonSoft-mobile.png"
+      },
+      "category": "limpieza",
+      "presentations": [
+        {
+          "name": "100 G"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "LaRebajaVirtual",
+          "url": "https://www.larebajavirtual.com/catalogo/producto/producto/63945/descripcion/JABON-ASEPXIA-HERBAL.html&utm_source=COAsepxia-Landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_LaRebajaVirtual"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "granitos",
+        "pielgrasa"
+      ]
+    },
+    {
+      "id": "AsepxiaJabonForte",
+      "price": "",
+      "generic_id": "asepxiajabonforte",
+      "name": "Asepxia Jabón Forte",
+      "short_description": "Remueve células muertas con efecto astringente. Ayuda a mejorar el aspecto de la piel por el efecto de poros afinados. ",
+      "description": "Si tienes una piel mixta y sientes tus poros abiertos, este es el jabón indicado para ti. <b>Asepxia Jabón Forte</b> con su nueva fórmula<b> HIDRO-FORCE</b>, exfolia tu piel sin dañarla, combatiendo imperfecciones.",
+      "use_mode": "En la mañana y en la noche, lava tu cara con agua y <b>Asepxia Jabón Forte</b> dando un ligero masaje, insistiendo en las zonas más afectadas. Enjuaga con abundante agua.",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/9/jabon-forte.png",
+        "to": "/dist/img/products/AsepxiaJabonForte-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/9/header-jforte.png",
+        "to": "/dist/img/products/AsepxiaJabonForte.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/9/header-jforte-m.png",
+        "to": "/dist/img/products/AsepxiaJabonForte-mobile.png"
+      },
+      "category": "limpieza",
+      "presentations": [
+        {
+          "name": "100 G"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "LaRebajaVirtual",
+          "url": "https://www.larebajavirtual.com/catalogo/producto/producto/63946/descripcion/JABON-ASEPXIA-FORTE.html&utm_source=COAsepxia-Landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_LaRebajaVirtual"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "pielmixta",
+        "granitos",
+        "puntosnegros",
+        "pielgrasa"
+      ]
+    },
+    {
+      "id": "AsepxiaJabonExfoliante",
+      "price": "",
+      "generic_id": "asepxiajabonexfoliante",
+      "name": "Asepxia Jabón Exfoliante",
+      "short_description": "Con micropartículas exfoliantes elimina las células muertas de la piel brindándole un aspecto más fresco y saludable. ",
+      "description": "La combinación del <b>ácido glicólico</b> con el ácido salicílico y las microesferas de jojoba <b>contribuyen a la disminución de granitos</b> y puntos negros. De esta forma mejora el aspecto general y la textura de la piel.",
+      "use_mode": "<div>Lava tu cara con agua y <b>Asepxia Jabón Exfoliante</b> dando un ligero masaje, insistiendo en las zonas más afectadas. Enjuaga con abundante agua.</div><div><br></div>",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/5/jabon-exfoliante.png",
+        "to": "/dist/img/products/AsepxiaJabonExfoliante-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/5/header-jexfoliante.png",
+        "to": "/dist/img/products/AsepxiaJabonExfoliante.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/5/header-jexfoliante-m.png",
+        "to": "/dist/img/products/AsepxiaJabonExfoliante-mobile.png"
+      },
+      "category": "limpieza",
+      "presentations": [
+        {
+          "name": "100 G"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "LaRebajaVirtual",
+          "url": "https://www.larebajavirtual.com/catalogo/producto/producto/63947/descripcion/JABON-ASEPXIA-EXFOLIANTE.html&utm_source=COAsepxia-Landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_LaRebajaVirtual"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "pielmixta",
+        "granitos",
+        "puntosnegros"
+      ]
+    },
+    {
+      "id": "AsepxiaJabonAzufre",
+      "price": "",
+      "generic_id": "asepxiajabonazufre",
+      "name": "Asepxia Jabón Azufre",
+      "short_description": "Fórmula para casos moderados al contener azufre, complemento ideal para el manejo de las pieles grasosas con granitos.",
+      "description": "Con su excelente efecto anti sebo, <b>Asepxia Jabón Azufre</b> es ideal para controlar la grasa y limpiar profundamente sin resecar la piel.&nbsp;",
+      "use_mode": "<div>Lava tu cara con agua y&nbsp;<b>Asepxia Jabón Azufre</b>&nbsp;dando un ligero masaje, insistiendo en las zonas más afectadas. Enjuaga con abundante agua.</div>",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/1/jabon-azufre.png",
+        "to": "/dist/img/products/AsepxiaJabonAzufre-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/1/header-jazufre.png",
+        "to": "/dist/img/products/AsepxiaJabonAzufre.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/1/header-jazufre-m.png",
+        "to": "/dist/img/products/AsepxiaJabonAzufre-mobile.png"
+      },
+      "category": "limpieza",
+      "presentations": [
+        {
+          "name": "100G"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "LaRebajaVirtual",
+          "url": "https://www.larebajavirtual.com/catalogo/producto/producto/65424/descripcion/JABON-ASEPXIA-AZUFRE.html&utm_source=COAsepxia-Landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_LaRebajaVirtual"
+        }
+      ],
+      "skins": [
+        "PielMixta",
+        "PielGrasa"
+      ],
+      "problems": [
+        "pielgrasa"
+      ]
+    },
+    {
+      "id": "ToallitasHumedas10Unidades",
+      "price": "",
+      "generic_id": "asepxiatoallitashumedass",
+      "name": "Toallitas Húmedas 10 Unidades",
+      "short_description": " Limpiadoras húmedas para una piel limpia y sin brillo.",
+      "description": "Enriquecido con aloe vera ara reducir la grasa e impurezas. Limpia poros y combate imperfecciones.&nbsp;",
+      "use_mode": "Extraer una toallita y aplicar un ligero masaje por toda la superficie de cara y cuello. Cerrar cuidadosamente el paquete para conservar la humedad.",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/73/Untitled-1.png",
+        "to": "/dist/img/products/ToallitasHumedas10Unidades-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/73/banner-toallitas.png",
+        "to": "/dist/img/products/ToallitasHumedas10Unidades.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/73/banner-toallitas-m.png",
+        "to": "/dist/img/products/ToallitasHumedas10Unidades-mobile.png"
+      },
+      "category": "limpieza",
+      "presentations": [
+        {
+          "name": "10 Unidades"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "LaRebajaVirtual",
+          "url": "https://www.larebajavirtual.com/catalogo/producto/producto/63948/descripcion/TOALLITAS-ASEPXIA.html&utm_source=COAsepxia-Landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_LaRebajaVirtual"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "pielgrasa"
+      ]
+    },
+    {
+      "id": "ToallitasHumedas25Unidades",
+      "price": "",
+      "generic_id": "asepxiatoallitashumedas25",
+      "name": "Toallitas Húmedas 25 Unidades",
+      "short_description": "Limpiadoras húmedas para una piel limpia y sin brillo.",
+      "description": "<b>Enriquecido con aloe&nbsp;</b>vera para reducir la grasa e impurezas. Limpia poros y combate imperfecciones.",
+      "use_mode": "Extraer una toallita y aplicar un ligero masaje por toda la superficie de cara y cuello. Cerrar cuidadosamente el paquete para conservar la humedad.",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/120/ToallitasHumedas10Unidades-thumbnail.png",
+        "to": "/dist/img/products/ToallitasHumedas25Unidades-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/120/banner-toallitas.png",
+        "to": "/dist/img/products/ToallitasHumedas25Unidades.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/120/banner-toallitas-m.png",
+        "to": "/dist/img/products/ToallitasHumedas25Unidades-mobile.png"
+      },
+      "category": "limpieza",
+      "presentations": [
+        {
+          "name": "25 UND"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "LaRebajaVirtual",
+          "url": "https://www.larebajavirtual.com/catalogo/producto/producto/63949/descripcion/TOALLITAS-ASEPXIA.html&utm_source=COAsepxia-Landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_LaRebajaVirtual"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "pielmixta",
+        "pielgrasa",
+        "pielsecaosensible"
+      ]
+    },
+    {
+      "id": "AsepxiaMaquillajeBronce",
+      "price": "",
+      "generic_id": "asepxiamaquillajebronce",
+      "name": "Asepxia Maquillaje Bronce",
+      "short_description": "Maquillaje en polvo compacto que absorbe la grasa de la piel mientras ayuda a reducir imperfecciones.",
+      "description": "<b>Cubre perfectamente las imperfecciones</b> y deja la piel sin brillo durante todo el día con 8 beneficios:\r\n<ul>\r\n\t<li>Reduce y combate imperfecciones.</li>\r\n\t<li>Controla el exceso de grasa.</li>\r\n\t<li>Reduce el tamaño de los poros.</li>\r\n\t<li>Matifica la piel.</li>\r\n\t<li>Desvanece manchas.</li>\r\n\t<li>Unifica el tono.</li>\r\n\t<li>Tiene ingrediente hidratante.</li>\r\n\t<li>FPS 15.</li>\r\n</ul>",
+      "use_mode": "<div>Úsalo para maquillar tu rostro las veces que sea necesario. &nbsp;</div><div><br></div>",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/41/maquillaje-bronce.png",
+        "to": "/dist/img/products/AsepxiaMaquillajeBronce-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/41/header-maquillaje.png",
+        "to": "/dist/img/products/AsepxiaMaquillajeBronce.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/41/header-maquillaje-m.png",
+        "to": "/dist/img/products/AsepxiaMaquillajeBronce-mobile.png"
+      },
+      "category": "maquillaje",
+      "presentations": [
+        {
+          "name": "10 Grs"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "LaRebajaVirtual",
+          "url": "https://www.larebajavirtual.com/catalogo/producto/producto/82324/descripcion/POLVO-COMPACTO-ASEPXIA-BRONCE.html&utm_source=COAsepxia-Landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_LaRebajaVirtual"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "pielgrasa",
+        "granitos",
+        "puntosnegros"
+      ]
+    },
+    {
+      "id": "GelEmergenciaTransparente",
+      "price": "",
+      "generic_id": "gelsecantetransparente",
+      "name": "Gel Emergencia Transparente",
+      "short_description": "Gel secante de efecto localizado para los granitos que salen sin avisar. Transparente.",
+      "description": "Con la nueva fórmula&nbsp;<b>HIDRO-FORCE</b>&nbsp;los geles de emergencia son la mejor opción para combatir imperfecciones puntuales. Con 2% de&nbsp;<b>ácido salicílico</b>&nbsp;actúa directamente en la zona afectada disminuyendo rojez.",
+      "use_mode": "&nbsp;Aplicar en la zona afectada y dejar secar. Repetir las veces que sea necesario.",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/121/emergencia-transparente.png",
+        "to": "/dist/img/products/GelEmergenciaTransparente-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/121/banner-emergencia.png",
+        "to": "/dist/img/products/GelEmergenciaTransparente.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/121/banner-emergencia-m.png",
+        "to": "/dist/img/products/GelEmergenciaTransparente-mobile.png"
+      },
+      "category": "emergencia",
+      "presentations": [
+        {
+          "name": " 28 G"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "LaRebajaVirtual",
+          "url": "https://www.larebajavirtual.com/catalogo/producto/producto/63950/descripcion/GEL-SECANTE-ANTI-IMPERFECCIONES-SPOT.html&utm_source=COAsepxia-Landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_LaRebajaVirtual"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "pielmixta",
+        "pielgrasa",
+        "pielsecaosensible",
+        "granitos"
+      ]
+    },
+    {
+      "id": "GelEmergenciaColorPiel",
+      "price": "",
+      "generic_id": "gelsecantecolorpiel",
+      "name": "Gel Emergencia Color Piel",
+      "short_description": "Gel secante de efecto localizado para los granitos que salen sin avisar. Color Piel.",
+      "description": "Con la nueva fórmula&nbsp;<b>HIDRO-FORCE</b>&nbsp;los geles de emergencia son la mejor opción para combatir imperfecciones puntuales. Con 2% de&nbsp;<b>ácido salicílico</b>&nbsp;actúa directamente en la zona afectada disminuyendo rojez.",
+      "use_mode": "&nbsp;Aplicar en la zona afectada y dejar secar. Repetir las veces que sea necesario.",
+      "thumbnail": {
+        "from": "/uploads/product_translation/thumbnail/122/emergencia-spot.png",
+        "to": "/dist/img/products/GelEmergenciaColorPiel-thumbnail.png"
+      },
+      "cover": {
+        "from": "/uploads/product_translation/image/122/banner-emergencia.png",
+        "to": "/dist/img/products/GelEmergenciaColorPiel.png"
+      },
+      "cover_mobile": {
+        "from": "/uploads/product_translation/mobile/122/banner-emergencia-m.png",
+        "to": "/dist/img/products/GelEmergenciaColorPiel-mobile.png"
+      },
+      "category": "emergencia",
+      "presentations": [
+        {
+          "name": "28g"
+        }
+      ],
+      "etailers": [
+        {
+          "id": "LaRebajaVirtual",
+          "url": "https://www.larebajavirtual.com/catalogo/producto/producto/63944/descripcion/CREMA-SECANTE-ASEPXIA-ANTI-IMPERFECCIONES-CAMOUFLAGE.html&utm_source=COAsepxia-Landing&utm_medium=referral&utm_campaign=CO-Asepxia-eCommerce_LaRebajaVirtual"
+        }
+      ],
+      "skins": [],
+      "problems": [
+        "pielmixta",
+        "pielgrasa",
+        "pielsecaosensible",
+        "granitos"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "Maquillaje",
+      "generic_id": "maquillaje",
+      "name": "Maquillaje",
+      "description": "<div>La avanzada fórmula de Asepxia maquillaje neutraliza y absorbe la grasa mientras ayuda a eliminar los puntos negros.</div><div><br></div>",
+      "product_ids": [
+        "bbcream",
+        "maquillajebeigeclaro",
+        "maquillajecremabeige",
+        "maquillajecremanatural",
+        "maquillajecremaclaro",
+        "maquillajecremabronce",
+        "maquillajeliquidobronce",
+        "maquillajeliquidobeige",
+        "maquillajeliquidonatural",
+        "maquillajeliquidoclaro",
+        "toallitasdesmaquillantes",
+        "maquillajeliquidoautoajustable",
+        "asepxiamaquillajenatural",
+        "asepxiamaquillajebronce",
+        "asepxiamaquillajebeigemate",
+        "asepxiamaquillajeclaromate"
+      ]
+    },
+    {
+      "id": "Limpieza",
+      "generic_id": "limpieza",
+      "name": "Limpieza",
+      "description": "<span>Asepxia penetra profundamente en cada poro y ayuda a eliminar el exceso de grasa, granitos o puntos negros.<div><br></div></span>",
+      "product_ids": [
+        "asepxiatoallitashumedas25",
+        "locionastringente",
+        "geldeduchaespumaactiva",
+        "geldeduchaherbal",
+        "geldeduchaazufre",
+        "geldeduchaexfoliante",
+        "jabonextrasecante",
+        "jabonherbal",
+        "jabonastringentecremoso",
+        "asepxiatoallitashumedass",
+        "jabonultrahumectantefarma",
+        "jabonexfoliantefarma",
+        "jabonazufrefarma",
+        "asepxiajabonneutro",
+        "gelexfoliante",
+        "asepxiajabonazufre",
+        "asepxiajabonexfoliante",
+        "asepxiajabonforte",
+        "asepxiajabonsoft"
+      ]
+    },
+    {
+      "id": "Emergencia",
+      "generic_id": "emergencia",
+      "name": "Emergencia",
+      "description": "La exclusiva fórmula de la línea de emergencia cubre las imperfecciones mientras ayuda a eliminarlas.<br>",
+      "product_ids": [
+        "gelsecante10",
+        "gelsecantecolorpiel",
+        "gelsecantetransparente"
+      ]
+    },
+    {
+      "id": "CarbonDetox",
+      "generic_id": "carbondetox",
+      "name": "Carbon Detox",
+      "description": "Nueva línea con Carbón Detox y Ácido Salicílico.",
+      "product_ids": [
+        "asepxiaparchescarbon",
+        "asepxiajaboncarbondetox"
+      ]
+    }
+  ],
+  "etailers": [
+    {
+      "id": "LaRebajaVirtual",
+      "name": "La rebaja Virtual",
+      "url": "https://www.larebajavirtual.com/catalogo/buscar?busqueda=asepxia",
+      "logo": {
+        "from": "/uploads/etailer/image/1/logotop.png",
+        "to": "/dist/img/etailers/LaRebajaVirtual.png"
+      }
+    },
+    {
+      "id": "Farmatodo",
+      "name": "farmatodo",
+      "url": "farmatodo.com.co",
+      "logo": {
+        "from": "/uploads/etailer/image/4/farmatodo_azul.png",
+        "to": "/dist/img/etailers/Farmatodo.png"
+      }
+    }
+  ],
+  "problems": [
+    {
+      "id": "PuntosNegros",
+      "generic_id": "puntosnegros",
+      "name": "Puntos negros",
+      "description": "<div>Los puntos negros aparecen cuando los poros se tapan con células muertas oxidadas. Cuídate con Asepxia y su nueva fórmula HIDRO- FORCE.</div>",
+      "product_ids": [
+        "asepxiajabonexfoliante",
+        "asepxiajabonforte",
+        "asepxiajabonneutro",
+        "gelexfoliante",
+        "asepxiamaquillajenatural",
+        "asepxiamaquillajebronce",
+        "asepxiamaquillajebeigemate",
+        "asepxiamaquillajeclaromate",
+        "asepxiamaquillajecremabeige",
+        "asepxiamaquillajecremanatural",
+        "asepxiamaquillajecremaclaro",
+        "maquillajecremabeigeclaro",
+        "maquillajeliquidoautoajustable",
+        "geldeduchaazufre",
+        "locionastringente",
+        "asepxiamaquillajecremabronce",
+        "maquillajeliquidonatural",
+        "maquillajeliquidobeige",
+        "maquillajeliquidobronce",
+        "maquillajecremabronce",
+        "maquillajecremaclaro",
+        "maquillajecremanatural",
+        "maquillajecremabeige",
+        "asepxiaparchescarbon",
+        "bbcream"
+      ]
+    },
+    {
+      "id": "Granitos",
+      "generic_id": "granitos",
+      "name": "Granitos",
+      "description": "<div>Los granitos aparecen con la superproducción de grasa y la obstrucción de los poros. Asepxia con su nueva fórmula HIDRO – FORCE te ayuda a eliminar las impurezas.</div>",
+      "product_ids": [
+        "asepxiajabonexfoliante",
+        "asepxiajabonforte",
+        "asepxiajabonsoft",
+        "asepxiajabonneutro",
+        "gelemergenciacolorpiel",
+        "gelemergenciatransparente",
+        "asepxiamaquillajenatural",
+        "asepxiamaquillajebronce",
+        "asepxiamaquillajebeigemate",
+        "asepxiamaquillajeclaromate",
+        "asepxiamaquillajecremabeige",
+        "asepxiamaquillajecremanatural",
+        "asepxiamaquillajecremaclaro",
+        "maquillajeliquidoautoajustable",
+        "jabonastringentecremoso",
+        "geldeduchaherbal",
+        "gelsecantetransparente",
+        "gelsecantecolorpiel",
+        "gelsecante10",
+        "maquillajecremaclaro",
+        "maquillajecremanatural",
+        "maquillajecremabeige",
+        "asepxiaparchescarbon",
+        "bbcream"
+      ]
+    },
+    {
+      "id": "PielGrasa",
+      "generic_id": "pielgrasa",
+      "name": "Piel Grasa",
+      "description": "<div>La grasa hace brillar tu piel y es más evidente en la zona T: frente, nariz y mentón. Mantén tu rostro limpio con Asepxia Toallitas con su nueva fórmula HIDRO- FORCE.</div>",
+      "product_ids": [
+        "asepxiajabonazufre",
+        "asepxiajabonforte",
+        "asepxiajabonsoft",
+        "asepxiajabonneutro",
+        "asepxiatoallitashumedas",
+        "asepxiamaquillajenatural",
+        "asepxiamaquillajebronce",
+        "asepxiamaquillajebeigemate",
+        "asepxiamaquillajeclaromate",
+        "asepxiamaquillajecremabeige",
+        "asepxiamaquillajecremanatural",
+        "asepxiamaquillajecremaclaro",
+        "jabonazufrefarma",
+        "maquillajecremabeigeclaro",
+        "gelemergenciacolorpiel",
+        "toallitasdesmaquillantes",
+        "asepxiatoallitashumedass",
+        "maquillajecremaclaro",
+        "maquillajecremanatural",
+        "maquillajecremabeige",
+        "asepxiatoallitashumedas25",
+        "gelsecantecolorpiel",
+        "asepxiaparchescarbon",
+        "bbcream"
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "id": "PielMixta",
+      "generic_id": "pielmixta",
+      "title": "Piel mixta",
+      "description": "La piel mixta posee una combinación de zonas con mucha producción de sebo y otras deshidratadas.",
+      "paragraph": "Presenta una zona T (frente, nariz y mentón) grasa aunque la piel de los pómulos es seca y delicada. Los poros se ven cerrados.",
+      "product_ids": [
+        "bbcream",
+        "maquillajebeigeclaro",
+        "asepxiaparchescarbon",
+        "asepxiajaboncarbondetox",
+        "asepxiatoallitashumedas25",
+        "maquillajecremaclaro",
+        "maquillajeliquidobronce",
+        "maquillajeliquidobeige",
+        "maquillajeliquidonatural",
+        "maquillajeliquidoclaro",
+        "gelsecante10",
+        "gelsecantecolorpiel",
+        "gelsecantetransparente",
+        "locionastringente",
+        "geldeduchaherbal",
+        "jabonherbal",
+        "asepxiatoallitashumedass",
+        "toallitasdesmaquillantes",
+        "maquillajeliquidoautoajustable",
+        "jabonexfoliantefarma",
+        "asepxiajabonneutro",
+        "gelexfoliante",
+        "gelemergenciacolorpiel",
+        "gelemergenciatransparente",
+        "asepxiajabonazufre",
+        "asepxiajabonexfoliante",
+        "asepxiajabonforte",
+        "asepxiajabonsoft"
+      ]
+    },
+    {
+      "id": "PielGrasa",
+      "generic_id": "pielgrasa",
+      "title": "Piel grasa",
+      "description": "La piel grasa se caracteriza por ser brillante, especialmente en la zona T que abarca la frente, la nariz y mentón.",
+      "paragraph": "Esto se debe a un exceso de actividad en las glándulas sebáceas, que son las que producen el sebo.",
+      "product_ids": [
+        "bbcream",
+        "asepxiaparchescarbon",
+        "asepxiatoallitashumedas25",
+        "maquillajecremabeige",
+        "maquillajecremanatural",
+        "gelsecante10",
+        "gelsecantecolorpiel",
+        "gelsecantetransparente",
+        "locionastringente",
+        "geldeduchaespumaactiva",
+        "geldeduchaexfoliante",
+        "jabonextrasecante",
+        "asepxiatoallitashumedass",
+        "toallitasdesmaquillantes",
+        "maquillajeliquidoautoajustable",
+        "maquillajecremabeigeclaro",
+        "jabonazufrefarma",
+        "asepxiamaquillajecremaclaro",
+        "asepxiamaquillajecremanatural",
+        "asepxiamaquillajecremabeige",
+        "gelexfoliante",
+        "gelemergenciacolorpiel",
+        "gelemergenciatransparente",
+        "asepxiamaquillajenatural",
+        "asepxiamaquillajebronce",
+        "asepxiamaquillajebeigemate",
+        "asepxiamaquillajeclaromate",
+        "asepxiajabonneutro",
+        "asepxiatoallitashumedas",
+        "asepxiajabonazufre",
+        "asepxiajabonforte"
+      ]
+    },
+    {
+      "id": "PielSeca",
+      "generic_id": "pielseca",
+      "title": "Piel seca",
+      "description": "<div><div>La piel deshidratada posee poca humectación de la epidermis gracias a un déficit en la producción de sebo de las glándulas sebáceas.</div></div><div><br></div>",
+      "paragraph": "Posee una textura fina y con poros visibles. La piel seca también tiene tendencia al enrojecimiento y a las pequeñas líneas de expresión debido a la falta de hidratación.",
+      "product_ids": [
+        "bbcream",
+        "maquillajebeigeclaro",
+        "asepxiaparchescarbon",
+        "asepxiatoallitashumedas25",
+        "maquillajecremabeige",
+        "maquillajecremanatural",
+        "maquillajecremaclaro",
+        "maquillajecremabronce",
+        "asepxiamaquillajecremabronce",
+        "gelsecante10",
+        "gelsecantecolorpiel",
+        "gelsecantetransparente",
+        "locionastringente",
+        "jabonastringentecremoso",
+        "asepxiatoallitashumedass",
+        "toallitasdesmaquillantes",
+        "maquillajeliquidoautoajustable",
+        "maquillajecremabeigeclaro",
+        "jabonultrahumectantefarma",
+        "asepxiamaquillajecremaclaro",
+        "asepxiamaquillajecremanatural",
+        "asepxiamaquillajecremabeige",
+        "asepxiamaquillajebronce",
+        "asepxiamaquillajebeigemate",
+        "asepxiamaquillajeclaromate",
+        "asepxiatoallitashumedas",
+        "gelemergenciacolorpiel",
+        "gelemergenciatransparente",
+        "asepxiamaquillajenatural"
+      ]
+    }
+  ]
+}

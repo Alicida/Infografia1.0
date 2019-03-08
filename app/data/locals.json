@@ -1,0 +1,41 @@
+{
+    "lang": "es_LA",
+    "title": "Genomma Lab",
+    "author": "@genommalab",
+    "description": "Empresa mexicana que se encuentra en constante crecimiento llevando presencia de Genomma Lab a distintas partes del mundo, como Brasil, Argentina, USA.",
+    "keywords": "GenommaLab, Genomma, Genomma Lab, GenomaLab, Genomma Colombia, Genomma Mexico, Genomma Brasil, Genomma Argentina, Genomma Peru, Genomma Chile, farmaceutica,medicamentos,caida del cabello,optica,cicatrices,bajar de peso, Salud, Belleza, cosméticos",
+    "shareImage": "/assets/img/share-image.png",
+    "url": "http://www.genommalab.com/",
+    "tag_manager_id": "GTM-XXXXXXX",
+    "favicons": {
+        "appName": "Genomma Landing",
+        "lang": "es_LA",
+        "url": "http://www.genommalab.com/",
+        "display": "standalone",
+        "start_url": "/",
+        "path": "favicons",
+        "background": "#060856",
+        "version": 1.0,
+        "logging": false,
+        "online": false,
+        "html": "../app/views/shared/favicons.html",
+        "pipeHTML": true,
+        "replace": true,
+        "icons": {
+            "android": true,
+            "appleIcon": {
+            	"shadow": true,
+            	"background": "#ffffff",
+            	"offset": 10
+            },
+            "coast": false,
+            "appleStartup": false,
+            "favicons": true,
+            "firefox": false,
+            "windows": {
+            	"background": "#ffffff"
+            },
+            "yandex": false
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+  "calls": "200",
+  "genders":
+    {
+      "male": "66",
+      "female": "66"
+    },
+  "types":
+    {
+    "home": "66",
+    "office": "66"
+  },
+  "tasks": {
+    "browser": "66",
+    "homework": "66",
+    "social": "66",
+    "movies": "66",
+    "music": "66"
+  },
+  "people": {
+      "one": "66",
+      "two": "66",
+      "three": "66",
+      "four": "66",
+      "five": "66",
+      "more": "66",
+      "rest": "66",
+      "pp": "66"
+  },
+  "ages": {
+      "beforeteen": "66",
+      "teen": "66",
+      "fiveteen": "66",
+      "aftertwenty": "66"
+  },
+  "times": {
+      "morning": "66",
+      "afternoon": "66",
+      "night": "66"
+  },
+  "providers": {
+      "telmex": "66",
+      "others": "66",
+      "izzi": "66",
+      "megacable": "66",
+      "dontremember": "66",
+      "total": "66",
+      "dish": "66",
+      "sky": "66",
+      "moreProviders": "66",
+      "axtelMax": "66"
+  }
+}

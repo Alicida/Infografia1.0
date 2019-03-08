@@ -1,0 +1,10 @@
+#main-wrapper {
+    min-height: 100%;
+    position: absolute;
+    @include transform(translateX(0%));
+    &.hide {
+    	@include transition(transform 250ms $easeOutQuad);
+    	opacity: 0;
+    	@include transform(translateX(100%));
+    }
+}

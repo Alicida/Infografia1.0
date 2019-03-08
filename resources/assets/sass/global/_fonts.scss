@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600');
+
+@font-face {
+  @include font-face('NunitoSans-Regular', 'NunitoSans-Regular');
+}
+
+// @font-face {
+//   @include font-face('TelefonicaWeb-ExtraLight','TelefonicaWeb-ExtraLight');
+// }
+
+@font-face {
+  font-family: "Telefonica";
+  src: url("fonts/TelefonicaWeb-ExtraLight.woff");
+}

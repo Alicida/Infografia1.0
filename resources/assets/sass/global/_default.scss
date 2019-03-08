@@ -1,0 +1,50 @@
+html {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html {
+	background-color: $bg-color;
+	color: $text-color;
+	font-family: $font-regular;
+  min-height: 100%;
+	position: relative;
+}
+
+body, html {
+	overflow-x: hidden;
+}
+
+body {
+	width: 100%;
+}
+
+#wrapper {
+    min-height: 100%;
+    position: relative;
+    padding-top: 54px;
+    width: 100%;
+    @include transition(all 250ms $easeOutQuad);
+}
+
+a {
+	color: $link-color;
+	text-decoration: none;
+	font-family: $roboto;
+	&:hover { text-decoration: underline; }
+}
+
+img {
+	max-width: 100%;
+}
+
+
+.text-left { text-align: left; }
+.text-center { text-align: center; }
+.text-right { text-align: right; }
